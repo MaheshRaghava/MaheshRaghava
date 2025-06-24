@@ -36,7 +36,7 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://agritech-web-pi.vercel.app/" target="_blank">
-        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/4CAF50/planting-crops.png" width="60px"/><br>
+        <img src="https://img.icons8.com/color/96/tractor.png" width="60px"/><br>
         <b style="color:#4CAF50;">🚜 AgriTech</b>
       </a><br>
       Smart agriculture support platform using Firebase and admin panel.
