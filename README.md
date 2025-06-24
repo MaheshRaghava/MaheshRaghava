@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **AI-integrated web applications**
 - 🌱 I’m exploring advanced **Firebase** & **OpenAI APIs**
 - 💬 Ask me about anything related to **JavaScript, Node.js, Firebase, MongoDB**
-- 📫 How to reach me: **mahesh.raghava.dev@gmail.com**
+- 📫 How to reach me: **raghava.raghava642@gmail.com**
 - ⚡ Fun fact: I love building clones of real-world apps to sharpen my skills!
 
 ---
@@ -58,7 +58,7 @@ A full-featured quiz app with login, signup, and dashboard using MongoDB and Nod
 
 ### 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/maheshraghava" target="_blank">
+  <a href="https://in.linkedin.com/in/mahesh-raghava-361a51305" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
