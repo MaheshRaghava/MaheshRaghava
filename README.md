@@ -30,31 +30,33 @@
 
 ---
 
-### 🌟 Popular Repositories
+### 🌟 Featured Projects
 
-<div align="center">
-
-  <a href="https://agritech-web-pi.vercel.app/" style="text-decoration:none;">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/100/null/external-farmer-agriculture-flat-flat-juicy-fish.png" width="60px"/>
-    <h4 style="color:#4CAF50;">🚜 AgriTech</h4>
-    <p><b>Smart farming support system</b><br>Firebase | Admin Panel | Realtime DB</p>
-  </a>
-  <br><br>
-
-  <a href="https://minispotify2830.onrender.com/" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/96/spotify--v1.png" width="60px"/>
-    <h4 style="color:#1DB954;">🎵 MiniSpotify</h4>
-    <p><b>Spotify-style music dashboard</b><br>Firebase Auth | LocalStorage | UI/UX</p>
-  </a>
-  <br><br>
-
-  <a href="https://quiz-web2830.onrender.com/" style="text-decoration:none;">
-    <img src="https://img.icons8.com/color/96/test-passed.png" width="60px"/>
-    <h4 style="color:#F39C12;">🧠 Quiz Website</h4>
-    <p><b>Interactive quiz system</b><br>MongoDB | Node.js | Login System</p>
-  </a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://agritech-web-pi.vercel.app/" target="_blank">
+        <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/100/4CAF50/planting-crops.png" width="60px"/><br>
+        <b style="color:#4CAF50;">🚜 AgriTech</b>
+      </a><br>
+      Smart agriculture support platform using Firebase and admin panel.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://minispotify2830.onrender.com/" target="_blank">
+        <img src="https://img.icons8.com/color/96/spotify--v1.png" width="60px"/><br>
+        <b style="color:#1DB954;">🎵 MiniSpotify</b>
+      </a><br>
+      Music dashboard with Firebase authentication and localStorage.
+    </td>
+    <td align="center" width="33%">
+      <a href="https://quiz-web2830.onrender.com/" target="_blank">
+        <img src="https://img.icons8.com/color/96/test-passed.png" width="60px"/><br>
+        <b style="color:#F39C12;">🧠 Quiz Website</b>
+      </a><br>
+      Quiz app with user login/signup and MongoDB backend.
+    </td>
+  </tr>
+</table>
 
 ---
 
