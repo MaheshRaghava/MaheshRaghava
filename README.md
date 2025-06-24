@@ -30,28 +30,35 @@
 
 ---
 
-### 📌 Featured Projects
+### 🌟 Popular Repositories
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://agritech-web-pi.vercel.app/"><img src="https://img.icons8.com/color/96/000000/farm-2.png"/><br><b>AgriTech</b></a><br>
-      Smart farming support with Firebase + admin control
-    </td>
-    <td align="center">
-      <a href="https://minispotify2830.onrender.com/"><img src="https://img.icons8.com/color/96/spotify--v1.png"/><br><b>MiniSpotify</b></a><br>
-      Spotify-inspired player using Firebase login
-    </td>
-    <td align="center">
-      <a href="https://quiz-web2830.onrender.com/"><img src="https://img.icons8.com/color/96/test-passed.png"/><br><b>Quiz Website</b></a><br>
-      Login + MongoDB-based online quiz platform
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+  <a href="https://agritech-web-pi.vercel.app/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/external-flat-juicy-fish/100/null/external-farmer-agriculture-flat-flat-juicy-fish.png" width="60px"/>
+    <h4 style="color:#4CAF50;">🚜 AgriTech</h4>
+    <p><b>Smart farming support system</b><br>Firebase | Admin Panel | Realtime DB</p>
+  </a>
+  <br><br>
+
+  <a href="https://minispotify2830.onrender.com/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/spotify--v1.png" width="60px"/>
+    <h4 style="color:#1DB954;">🎵 MiniSpotify</h4>
+    <p><b>Spotify-style music dashboard</b><br>Firebase Auth | LocalStorage | UI/UX</p>
+  </a>
+  <br><br>
+
+  <a href="https://quiz-web2830.onrender.com/" style="text-decoration:none;">
+    <img src="https://img.icons8.com/color/96/test-passed.png" width="60px"/>
+    <h4 style="color:#F39C12;">🧠 Quiz Website</h4>
+    <p><b>Interactive quiz system</b><br>MongoDB | Node.js | Login System</p>
+  </a>
+
+</div>
 
 ---
 
-### 📈 GitHub Stats & Contributions
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MaheshRaghava&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
