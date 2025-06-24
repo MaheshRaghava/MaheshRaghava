@@ -36,7 +36,7 @@
 A smart agriculture support platform using Firebase and custom admin dashboard.
 
 🔸 [**MiniSpotify**](https://minispotify2830.onrender.com/)  
-A music streaming dashboard inspired by Spotify with localStorage and authentication.
+A music streaming dashboard inspired by Spotify with Firebase authentication
 
 🔸 [**Quiz Website**](https://quiz-web2830.onrender.com/)  
 A full-featured quiz app with login, signup, and dashboard using MongoDB and Node.js.
