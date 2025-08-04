@@ -42,7 +42,7 @@
       Smart agriculture support platform using Firebase and admin panel.
     </td>
     <td align="center" width="33%">
-      <a href="https://minispotify2830.onrender.com/" target="_blank">
+      <a href="https://minispotify3028.onrender.com/" target="_blank">
         <img src="https://img.icons8.com/color/96/spotify--v1.png" width="60px"/><br>
         <b style="color:#1DB954;">🎵 MiniSpotify</b>
       </a><br>
