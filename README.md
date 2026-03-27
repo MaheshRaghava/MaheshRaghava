@@ -1,23 +1,18 @@
-<!-- Banner -->
+<!-- ===== NEW BLUE HEADER ===== -->
 
 <p align="center">
-  <img width="100%" src="https://i.imgur.com/iXuL1HG.png" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=K%20Mahesh%20Raghava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">K Mahesh Raghava</span></h1>
 <h3 align="center">🚀 Full Stack Web Developer & AI Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Firebase+Fan+%F0%9F%94%A5;OpenAI+Explorer+%F0%9F%96%A5%EF%B8%8F;Building+Modern+Web+Apps%F0%9F%91%BB;Always+Learning+%F0%9F%8C%8D" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0EA5E9&size=28&center=true&vCenter=true&width=500&lines=Firebase+Fan+🔥;OpenAI+Explorer+🖥️;Building+Modern+Web+Apps👻;Always+Learning+🌍" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="120"/>
-</p>
 
 * 🔭 Working on **AI + Firebase web platforms**
 * 🌱 Learning cutting-edge APIs and scalable app deployment
@@ -101,4 +96,10 @@
 
 <p align="right">
   <a href="#"><img src="https://img.shields.io/badge/↑-Back_to_Top-blue?style=flat-square"/></a>
+</p>
+
+<!-- ===== FOOTER WAVE ===== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0ea5e9&height=120&section=footer"/>
 </p>
