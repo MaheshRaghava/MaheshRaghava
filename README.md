@@ -1,4 +1,4 @@
-<!-- ===== NEW BLUE HEADER ===== -->
+<!-- ===== BLUE HEADER ===== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=K%20Mahesh%20Raghava&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
@@ -18,7 +18,7 @@
 * 🌱 Learning cutting-edge APIs and scalable app deployment
 * 💬 Ask me about anything in **Node.js, JavaScript, Firebase, or MongoDB**
 * 🧠 Strong in **C, Java, Python**
-* 📫 Reach me at: `raghava.raghava642@gmail.com`
+* 📫 Reach me at: `maheshraghavak@gmail.com`
 * 🎮 Fun fact: I often turn real apps into *clones* just for the thrill!
 
 ---
@@ -63,14 +63,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshRaghava&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaheshRaghava&theme=radical&row=1&column=6"/>
 </p>
 
 ---
