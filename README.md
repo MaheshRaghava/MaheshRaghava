@@ -34,26 +34,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://agritech-web-pi.vercel.app/" target="_blank">
         <img src="https://img.icons8.com/color/96/tractor.png" width="60px"/><br>
         <b style="color:#4CAF50;">🚜 AgriTech</b>
       </a><br>
       Smart agriculture support platform using Firebase and admin panel.
     </td>
-    <td align="center" width="33%">
-      <a href="https://minispotify3028.onrender.com/" target="_blank">
+    <td align="center" width="50%">
+      <a href="https://minispotify2027.onrender.com/" target="_blank">
         <img src="https://img.icons8.com/color/96/spotify--v1.png" width="60px"/><br>
         <b style="color:#1DB954;">🎵 MiniSpotify</b>
       </a><br>
       Music dashboard with Firebase authentication and localStorage.
-    </td>
-    <td align="center" width="33%">
-      <a href="https://quiz-web2830.onrender.com/" target="_blank">
-        <img src="https://img.icons8.com/color/96/test-passed.png" width="60px"/><br>
-        <b style="color:#F39C12;">🧠 Quiz Website</b>
-      </a><br>
-      Quiz app with user login/signup and MongoDB backend.
     </td>
   </tr>
 </table>
