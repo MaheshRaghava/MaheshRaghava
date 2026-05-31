@@ -10,7 +10,7 @@
 
 <!-- ===== INTRODUCTION TYPING EFFECT ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Welcome+to+My+Digital+Universe+🌌;Building+Tomorrow's+Solutions+Today+🚀;AI+%7C+Full+Stack+%7C+Innovation+💡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Welcome+to+My+Digital+Universe;Building+Tomorrow's+Solutions+Today;AI+%7C+Full+Stack+%7C+Innovation"/>
 </div>
 
 <br/>
@@ -25,10 +25,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahesh-raghava-361a51305)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaheshRaghava)
   
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=MaheshRaghava&style=for-the-badge&color=0ea5e9"/>
-  <img src="https://img.shields.io/github/followers/MaheshRaghava?style=for-the-badge&color=0ea5e9"/>
-  
 </div>
 
 <br/>
@@ -42,45 +38,36 @@
 
 ## 💼 About Me
 
+```
+╔════════════════════════════════════════════════════╗
+║                                                    ║
+║  🔭 Currently building:                           ║
+║     AI-powered web platforms with Firebase & Cloud ║
+║                                                    ║
+║  🌱 Learning:                                     ║
+║     Advanced ML/AI, scalable architecture          ║
+║     patterns, LLM integration                      ║
+║                                                    ║
+║  💬 Ask me about:                                 ║
+║     Node.js, JavaScript, Firebase, MongoDB,        ║
+║     Google Gemini APIs                             ║
+║                                                    ║
+║  🧠 Expertise:                                    ║
+║     C, Java, Python, Full-Stack Web Development    ║
+║                                                    ║
+║  ⚡ Passion:                                      ║
+║     Turning ideas into innovative, scalable        ║
+║     solutions                                      ║
+║                                                    ║
+║  🎮 Fun fact:                                     ║
+║     I build clones of popular apps to master       ║
+║     architectural patterns!                        ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <pre>
-╔════════════════════════════════════════╗
-║  🔭 Currently building:              ║
-║     AI-powered web platforms with     ║
-║     Firebase & Cloud                  ║
-║                                       ║
-║  🌱 Learning:                        ║
-║     Advanced ML/AI, scalable         ║
-║     architecture patterns, LLM       ║
-║     integration                       ║
-║                                       ║
-║  💬 Ask me about:                    ║
-║     Node.js, JavaScript, Firebase,   ║
-║     MongoDB, Google Gemini APIs       ║
-║                                       ║
-║  🧠 Expertise:                       ║
-║     C, Java, Python, Full-Stack      ║
-║     Web Development                   ║
-║                                       ║
-║  ⚡ Passion:                         ║
-║     Turning ideas into innovative,    ║
-║     scalable solutions                ║
-║                                       ║
-║  🎮 Fun fact:                        ║
-║     I build clones of popular apps   ║
-║     to master architectural           ║
-║     patterns!                         ║
-╚════════════════════════════════════════╝
-        </pre>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MaheshRaghava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=FFFFFF&ring_color=0EA5E9"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaheshRaghava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=FFFFFF&ring_color=0EA5E9"/>
 </div>
 
 <br/>
@@ -188,10 +175,10 @@
           <p>GitHub App that analyzes PRs for security vulnerabilities, bugs, and code quality issues using Google Gemini 2.5 Flash</p>
           <p>
             <a href="https://codesenseiai-gold.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/🚀_Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo"/>
+              <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo"/>
             </a>
             <a href="https://github.com/MaheshRaghava/CodeSenseiAI" target="_blank">
-              <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code"/>
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code"/>
             </a>
           </p>
           <p>
@@ -214,10 +201,10 @@
           <p>Multi-user code editor with Monaco, live cursors, integrated chat, and sandboxed code execution environment</p>
           <p>
             <a href="https://coderoom-client.onrender.com" target="_blank">
-              <img src="https://img.shields.io/badge/🚀_Live_Demo-8B5CF6?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117" alt="Live Demo"/>
+              <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=render&logoColor=white&labelColor=0D1117" alt="Live Demo"/>
             </a>
             <a href="https://github.com/MaheshRaghava/CodeRoom" target="_blank">
-              <img src="https://img.shields.io/badge/💻_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code"/>
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code"/>
             </a>
           </p>
           <p>
@@ -389,14 +376,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6&height=120&section=footer&animation=fadeIn"/>
 </div>
-
-<div align="right">
-  <a href="#">
-    <img src="https://img.shields.io/badge/↑_Back_to_Top-0EA5E9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   
