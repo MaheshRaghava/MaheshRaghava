@@ -371,7 +371,7 @@
 
 <!-- ===== PREMIUM ANIMATED FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:0a2342,100:0a0a0f&height=160&section=footer&animation=fadeIn&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:0a2342,100:0a0a0f&height=150&section=footer&animation=fadeIn"/>
 </div>
 
 <div align="center">
