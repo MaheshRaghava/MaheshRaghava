@@ -1,251 +1,214 @@
-<!-- ===== ANIMATED HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:2563eb&height=220&section=header&text=K%20Mahesh%20Raghava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
-</p>
-
----
-
-## 🎯 Welcome to My Digital Space
-
 <div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maheshraghavak@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahesh-raghava-361a51305)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaheshRaghava)
-  
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:0f0f1a,100:1a1a2e&height=4&section=header"/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00e5ff,100:2979ff&height=200&section=header&text=K%20Mahesh%20Raghava&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+scalable+%C2%B7+Thinking+intelligently;Shipping+fast)](https://git.io/typing-svg)
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/◈%20maheshraghavak%40gmail.com-%230a0a0f?style=flat-square&logo=gmail&logoColor=00e5ff&labelColor=0f0f1a&color=0f0f1a)](mailto:maheshraghavak@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈%20LinkedIn-%230a0a0f?style=flat-square&logo=linkedin&logoColor=00e5ff&labelColor=0f0f1a&color=0f0f1a)](https://in.linkedin.com/in/mahesh-raghava-361a51305)&nbsp;
+[![GitHub](https://img.shields.io/badge/◈%20MaheshRaghava-%230a0a0f?style=flat-square&logo=github&logoColor=00e5ff&labelColor=0f0f1a&color=0f0f1a)](https://github.com/MaheshRaghava)
+
 </div>
 
----
+<br/>
 
-## 💼 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-```
-🔭 Currently building: AI-powered web platforms with Firebase & Cloud
-🌱 Learning: Advanced ML/AI, scalable architecture patterns, LLM integration
-💬 Ask me about: Node.js, JavaScript, Firebase, MongoDB, Google Gemini APIs
-🧠 Expertise: C, Java, Python, Full-Stack Web Development
-⚡ Passion: Turning ideas into innovative, scalable solutions
-🎮 Fun fact: I build clones of popular apps to master architectural patterns!
-```
+## `// about`
 
----
+| # | &nbsp; |
+|---|--------|
+| `01` | Currently building **AI-powered web platforms** with Firebase & Cloud |
+| `02` | Learning **Advanced ML/AI**, scalable architecture, LLM integration |
+| `03` | Expertise in **C · Java · Python · Full-Stack** development |
+| `04` | Passionate about **turning ideas** into innovative, scalable solutions |
+| `05` | Ask me about **Node.js · Firebase · MongoDB · Gemini APIs** |
+| `06` | I build **clones of popular apps** to master architectural patterns |
 
-## 🚀 Tech Arsenal
+<br/>
 
-### Languages & Fundamentals
-<div align="center">
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c&theme=light" height="50" />
-  </a>
-  <a href="https://devdocs.io/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" height="50" />
-  </a>
-  <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=light" height="50" />
-  </a>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Web Technologies
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js&theme=light" height="50" />
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="50" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express&theme=light" height="50" />
-  </a>
-</div>
+## `// tech arsenal`
 
-### Databases & Backend Services
-<div align="center">
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="50" />
-  </a>
-  <a href="https://firebase.google.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="50" />
-  </a>
-  <a href="https://cloud.google.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp&theme=light" height="50" />
-  </a>
-</div>
+**`LANGUAGES & FUNDAMENTALS`**
 
-### Tools & Platforms
-<div align="center">
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git&theme=light" height="50" />
-  </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" />
-  </a>
-  <a href="https://docs.npmjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=npm&theme=light" height="50" />
-  </a>
-  <a href="https://www.postman.com/api-documentation-tool/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash&theme=light" height="50" />
-  </a>
-</div>
+![C](https://img.shields.io/badge/C-0f0f1a?style=flat-square&logo=c&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Java](https://img.shields.io/badge/Java-0f0f1a?style=flat-square&logo=openjdk&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Python](https://img.shields.io/badge/Python-0f0f1a?style=flat-square&logo=python&logoColor=00e5ff&labelColor=0f0f1a)
 
----
+**`WEB TECHNOLOGIES`**
 
-## 🌟 Featured Projects
+![HTML](https://img.shields.io/badge/HTML-0f0f1a?style=flat-square&logo=html5&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-0f0f1a?style=flat-square&logo=css3&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f1a?style=flat-square&logo=javascript&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0f0f1a?style=flat-square&logo=node.js&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-0f0f1a?style=flat-square&logo=express&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![React.js](https://img.shields.io/badge/React.js-0f0f1a?style=flat-square&logo=react&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Socket.io](https://img.shields.io/badge/Socket.io-0f0f1a?style=flat-square&logo=socket.io&logoColor=00e5ff&labelColor=0f0f1a)
 
-<table align="center" cellspacing="20">
-  <tr>
-    <td align="center" width="45%">
-      <div style="border: 2px solid #0EA5E9; border-radius: 15px; padding: 20px;">
-        <a href="https://github.com/MaheshRaghava/CodeSenseiAI" target="_blank">
-          <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/><br>
-          <h3 style="color:#0EA5E9; margin: 10px 0;">🤖 CodeSenseiAI</h3>
-        </a>
-        <p><strong>AI-Powered Code Review Bot</strong></p>
-        <p>GitHub App that analyzes PRs for security vulnerabilities, bugs, and code quality issues using Google Gemini 2.5 Flash</p>
-        <p>
-          <a href="https://codesenseiai-gold.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-          </a>
-          <a href="https://ai.google.dev/gemini-api/docs" target="_blank">
-            <img src="https://img.shields.io/badge/Google%20Gemini-FFA500?style=flat-square&logo=google&logoColor=white" alt="Google Gemini"/>
-          </a>
-          <a href="https://docs.github.com/en/rest" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API"/>
-          </a>
-          <a href="https://expressjs.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-          </a>
-          <a href="https://nodejs.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-          </a>
-        </p>
-      </div>
-    </td>
-    <td align="center" width="45%">
-      <div style="border: 2px solid #8B5CF6; border-radius: 15px; padding: 20px;">
-        <a href="https://github.com/MaheshRaghava/CodeRoom" target="_blank">
-          <img src="https://img.icons8.com/color/96/source-code.png" width="70px"/><br>
-          <h3 style="color:#8B5CF6; margin: 10px 0;">💻 CodeRoom</h3>
-        </a>
-        <p><strong>Real-Time Collaborative Editor</strong></p>
-        <p>Multi-user code editor with Monaco, live cursors, integrated chat, and sandboxed code execution environment</p>
-        <p>
-          <a href="https://coderoom-client.onrender.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=render&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p>
-          <a href="https://nodejs.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-          </a>
-          <a href="https://socket.io/" target="_blank">
-            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
-          </a>
-          <a href="https://react.dev/" target="_blank">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-          </a>
-          <a href="https://www.mongodb.com/" target="_blank">
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-          </a>
-        </p>
-      </div>
-    </td>
-   </tr>
+**`DATABASES & BACKEND SERVICES`**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0f1a?style=flat-square&logo=mongodb&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-0f0f1a?style=flat-square&logo=firebase&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0f0f1a?style=flat-square&logo=googlecloud&logoColor=00e5ff&labelColor=0f0f1a)
+
+**`TOOLS & PLATFORMS`**
+
+![Git](https://img.shields.io/badge/Git-0f0f1a?style=flat-square&logo=git&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-0f0f1a?style=flat-square&logo=visualstudiocode&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![npm](https://img.shields.io/badge/npm-0f0f1a?style=flat-square&logo=npm&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0f0f1a?style=flat-square&logo=postman&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Bash](https://img.shields.io/badge/Bash-0f0f1a?style=flat-square&logo=gnubash&logoColor=00e5ff&labelColor=0f0f1a)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-0f0f1a?style=flat-square&logo=docker&logoColor=00e5ff&labelColor=0f0f1a)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `// featured projects`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `Project 01` — CodeSenseiAI
+
+> GitHub App that analyzes PRs for security vulnerabilities, bugs, and code quality issues using **Google Gemini 2.5 Flash**. AI-Powered Code Review Bot.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f1a?style=flat-square&logo=javascript&logoColor=0097a7&labelColor=0f0f1a)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-0f0f1a?style=flat-square&logo=google&logoColor=0097a7&labelColor=0f0f1a)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-0f0f1a?style=flat-square&logo=github&logoColor=0097a7&labelColor=0f0f1a)
+![Express](https://img.shields.io/badge/Express.js-0f0f1a?style=flat-square&logo=express&logoColor=0097a7&labelColor=0f0f1a)
+![Node.js](https://img.shields.io/badge/Node.js-0f0f1a?style=flat-square&logo=node.js&logoColor=0097a7&labelColor=0f0f1a)
+
+[![Live Demo →](https://img.shields.io/badge/▶%20Live%20Demo-00e5ff?style=flat-square&labelColor=0f0f1a&color=0f0f1a&logoColor=00e5ff)](https://codesenseiai-gold.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### `Project 02` — CodeRoom
+
+> Multi-user real-time collaborative editor with Monaco, live cursors, integrated chat, and sandboxed code execution environment.
+
+![Node.js](https://img.shields.io/badge/Node.js-0f0f1a?style=flat-square&logo=node.js&logoColor=0097a7&labelColor=0f0f1a)
+![Socket.io](https://img.shields.io/badge/Socket.io-0f0f1a?style=flat-square&logo=socket.io&logoColor=0097a7&labelColor=0f0f1a)
+![React](https://img.shields.io/badge/React-0f0f1a?style=flat-square&logo=react&logoColor=0097a7&labelColor=0f0f1a)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0f1a?style=flat-square&logo=mongodb&logoColor=0097a7&labelColor=0f0f1a)
+
+[![Live Demo →](https://img.shields.io/badge/▶%20Live%20Demo-00e5ff?style=flat-square&labelColor=0f0f1a&color=0f0f1a&logoColor=00e5ff)](https://coderoom-client.onrender.com)
+
+</td>
+</tr>
 </table>
----
 
-## 🎓 Skills & Expertise
+<br/>
 
-### Backend & API Development
-- ⚙️ RESTful API Design & GraphQL
-- 🔐 Authentication & Authorization (JWT, OAuth)
-- 📊 Database Design & Optimization
-- 🚀 Scalable Architecture Patterns
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### AI & Machine Learning
-- 🤖 LLM Integration & Prompt Engineering
-- 🧠 Google Gemini API
-- 📈 Data Processing & Analysis
-- 🎯 ML Model Integration
+## `// skills & expertise`
 
-### Frontend Technologies
-- ⚛️ React.js & Modern JavaScript
-- 🎨 Responsive UI/UX Design
-- 🔄 State Management
-- 🚀 Performance Optimization
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### DevOps & Deployment
-- 🐳 Docker & Containerization
-- ☁️ Cloud Deployment (Firebase, GCP)
-- 📦 CI/CD Pipelines
-- 🔧 Server Configuration
+**`BACKEND & API`**
+- ▸ RESTful API Design & GraphQL
+- ▸ Authentication & Authorization (JWT, OAuth)
+- ▸ Database Design & Optimization
+- ▸ Scalable Architecture Patterns
 
----
+**`AI & MACHINE LEARNING`**
+- ▸ LLM Integration & Prompt Engineering
+- ▸ Google Gemini API
+- ▸ Data Processing & Analysis
+- ▸ ML Model Integration
 
-## 🌐 What I'm Building
+</td>
+<td width="50%" valign="top">
 
-- **🔥 Firebase + AI Integration** - Scalable backends with intelligent features
-- **🤖 AI-Driven Tools** - Automating development workflows with LLMs
-- **💬 Real-Time Applications** - WebSocket-based collaborative platforms
-- **📱 Full-Stack Solutions** - End-to-end user experiences
+**`FRONTEND TECHNOLOGIES`**
+- ▸ React.js & Modern JavaScript
+- ▸ Responsive UI/UX Design
+- ▸ State Management
+- ▸ Performance Optimization
 
----
+**`DEVOPS & DEPLOYMENT`**
+- ▸ Docker & Containerization
+- ▸ Cloud Deployment (Firebase, GCP)
+- ▸ CI/CD Pipelines
+- ▸ Server Configuration
 
-## 🎨 Quote of the Moment
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Collaborate!
+## `// what i'm building`
 
-I'm always excited to:
-- 🤝 Collaborate on innovative projects
-- 💬 Discuss AI/ML applications in web development
-- 🎓 Share knowledge and learn together
-- 🚀 Build something amazing
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🔥 Firebase + AI Integration**
+<br/>Scalable backends with intelligent features powered by the latest LLM APIs
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 AI-Driven Tools**
+<br/>Automating development workflows with LLMs to supercharge productivity
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 Real-Time Applications**
+<br/>WebSocket-based collaborative platforms for seamless multi-user experiences
+
+</td>
+<td width="50%" valign="top">
+
+**📱 Full-Stack Solutions**
+<br/>End-to-end user experiences from database to polished UI
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## `// let's collaborate`
 
 <div align="center">
-  
-  ### Get in Touch
-  
-  **📧 Email:** [maheshraghavak@gmail.com](mailto:maheshraghavak@gmail.com)  
-  **💼 LinkedIn:** [@mahesh-raghava](https://in.linkedin.com/in/mahesh-raghava-361a51305)  
-  **🐙 GitHub:** [@MaheshRaghava](https://github.com/MaheshRaghava)
-  
+
+> Always excited to collaborate on innovative projects, discuss AI/ML applications,
+> share knowledge, and build something amazing together.
+
+<br/>
+
+[![Email](https://img.shields.io/badge/📧%20maheshraghavak%40gmail.com-0f0f1a?style=for-the-badge&logoColor=00e5ff&labelColor=0f0f1a&color=0f0f1a)](mailto:maheshraghavak@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼%20@mahesh--raghava-0f0f1a?style=for-the-badge&logoColor=00e5ff&labelColor=0f0f1a&color=0f0f1a)](https://in.linkedin.com/in/mahesh-raghava-361a51305)&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙%20@MaheshRaghava-0f0f1a?style=for-the-badge&logoColor=00e5ff&labelColor=0f0f1a&color=0f0f1a)](https://github.com/MaheshRaghava)
+
 </div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=120&section=footer&animation=fadeIn"/>
-</p>
-
-<p align="right">
-  <a href="#"><img src="https://img.shields.io/badge/↑-Back_to_Top-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:2979ff,100:00e5ff&height=120&section=footer&animation=fadeIn"/>
 
 <div align="center">
-  
-  **⭐ If you find my projects interesting, a star would be appreciated! ⭐**
-  
-  _Last Updated: 2026_
-  
+<sub><b>K Mahesh Raghava</b> · Full Stack Developer · AI Enthusiast · Last Updated 2026</sub>
 </div>
