@@ -1,15 +1,6 @@
 <!-- ===== PREMIUM ANIMATED HEADER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10&height=300&section=header&text=K%20Mahesh%20Raghava&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Innovation%20Builder&descAlignY=58&descSize=25&stroke=ffffff&strokeWidth=2&rotationAngle=5"/>
-</div>
-
-<!-- ===== GLOWING DIVIDER ===== -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&lines=Welcome+to+My+Developer+Universe;Crafting+Solutions+with+Code+%26+Creativity;AI+%7C+Full+Stack+%7C+Cloud+%7C+Innovation"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6&height=280&section=header&text=K%20Mahesh%20Raghava&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=22&stroke=ffffff&strokeWidth=1"/>
 </div>
 
 <!-- ===== PARTICLE DIVIDER ===== -->
@@ -380,11 +371,7 @@
 
 <!-- ===== PREMIUM ANIMATED FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,8,6,4,2,0&height=300&section=footer&animation=fadeIn&text=Let's%20Build%20Something%20Amazing&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=Stay%20Creative%20%F0%9F%92%BB%20%7C%20Keep%20Innovating%20%F0%9F%A4%96%20%7C%20Never%20Stop%20Learning%20%F0%9F%9A%80&descSize=22&descAlignY=75&rotationAngle=-5"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6&height=120&section=footer&animation=fadeIn"/>
 </div>
 
 <div align="center">
