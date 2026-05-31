@@ -1,6 +1,6 @@
 <!-- ===== PREMIUM ANIMATED HEADER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6&height=280&section=header&text=K%20Mahesh%20Raghava&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=22&stroke=ffffff&strokeWidth=1"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1b2a,60:0a2342,100:0ea5e9&height=300&section=header&text=K%20Mahesh%20Raghava&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=22&stroke=0ea5e9&strokeWidth=2"/>
 </div>
 
 <!-- ===== PARTICLE DIVIDER ===== -->
@@ -371,7 +371,7 @@
 
 <!-- ===== PREMIUM ANIMATED FOOTER ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4,5,6&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0ea5e9,50:0a2342,100:0a0a0f&height=160&section=footer&animation=fadeIn&reversal=true"/>
 </div>
 
 <div align="center">
