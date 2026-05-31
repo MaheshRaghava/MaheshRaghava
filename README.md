@@ -65,10 +65,9 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaheshRaghava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=FFFFFF&ring_color=0EA5E9"/>
+  
 </div>
 
-<br/>
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <div align="center">
