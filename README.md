@@ -36,18 +36,18 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://agritech-web-pi.vercel.app/" target="_blank">
-        <img src="https://img.icons8.com/color/96/tractor.png" width="60px"/><br>
-        <b style="color:#4CAF50;">🚜 AgriTech</b>
+      <a href="https://github.com/MaheshRaghava/CodeSenseiAI" target="_blank">
+        <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="60px"/><br>
+        <b style="color:#0EA5E9;">🤖 CodeSenseiAI</b>
       </a><br>
-      Smart agriculture support platform using Firebase and admin panel.
+      AI-powered GitHub App that reviews pull requests for security vulnerabilities, bugs, and bad practices using Google Gemini 2.5 Flash.
     </td>
     <td align="center" width="50%">
-      <a href="https://minispotify2027.onrender.com/" target="_blank">
-        <img src="https://img.icons8.com/color/96/spotify--v1.png" width="60px"/><br>
-        <b style="color:#1DB954;">🎵 MiniSpotify</b>
+      <a href="https://github.com/MaheshRaghava/CodeRoom" target="_blank">
+        <img src="https://img.icons8.com/color/96/source-code.png" width="60px"/><br>
+        <b style="color:#8B5CF6;">💻 CodeRoom</b>
       </a><br>
-      Music dashboard with Firebase authentication and localStorage.
+      Real-time collaborative code editor with Monaco, live cursors, chat, and sandboxed code execution.
     </td>
   </tr>
 </table>
