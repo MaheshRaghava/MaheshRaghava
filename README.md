@@ -111,9 +111,26 @@
         <p><strong>AI-Powered Code Review Bot</strong></p>
         <p>GitHub App that analyzes PRs for security vulnerabilities, bugs, and code quality issues using Google Gemini 2.5 Flash</p>
         <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Google%20Gemini-FFA500?style=flat-square&logo=google&logoColor=white"/>
-          <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white"/>
+          <a href="https://codesenseiai-gold.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
+          </a>
+        </p>
+        <p>
+          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+          </a>
+          <a href="https://ai.google.dev/gemini-api/docs" target="_blank">
+            <img src="https://img.shields.io/badge/Google%20Gemini-FFA500?style=flat-square&logo=google&logoColor=white" alt="Google Gemini"/>
+          </a>
+          <a href="https://docs.github.com/en/rest" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API"/>
+          </a>
+          <a href="https://expressjs.com/" target="_blank">
+            <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
+          </a>
+          <a href="https://nodejs.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+          </a>
         </p>
       </div>
     </td>
@@ -126,15 +143,28 @@
         <p><strong>Real-Time Collaborative Editor</strong></p>
         <p>Multi-user code editor with Monaco, live cursors, integrated chat, and sandboxed code execution environment</p>
         <p>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Monaco-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+          <a href="https://coderoom-client.onrender.com" target="_blank">
+            <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=render&logoColor=white" alt="Live Demo"/>
+          </a>
+        </p>
+        <p>
+          <a href="https://nodejs.org/" target="_blank">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+          </a>
+          <a href="https://socket.io/" target="_blank">
+            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
+          </a>
+          <a href="https://react.dev/" target="_blank">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          </a>
+          <a href="https://www.mongodb.com/" target="_blank">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          </a>
         </p>
       </div>
     </td>
-  </tr>
+   </tr>
 </table>
-
 ---
 
 ## 🎓 Skills & Expertise
