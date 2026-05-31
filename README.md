@@ -1,251 +1,267 @@
-<!-- ===== ANIMATED HEADER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:0ea5e9,100:2563eb&height=220&section=header&text=K%20Mahesh%20Raghava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20"/>
-</p>
-
----
-
-## 🎯 Welcome to My Digital Space
-
 <div align="center">
-  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:maheshraghavak@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahesh-raghava-361a51305)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MaheshRaghava)
-  
-</div>
-
----
-
-## 💼 About Me
 
 ```
-🔭 Currently building: AI-powered web platforms with Firebase & Cloud
-🌱 Learning: Advanced ML/AI, scalable architecture patterns, LLM integration
-💬 Ask me about: Node.js, JavaScript, Firebase, MongoDB, Google Gemini APIs
-🧠 Expertise: C, Java, Python, Full-Stack Web Development
-⚡ Passion: Turning ideas into innovative, scalable solutions
-🎮 Fun fact: I build clones of popular apps to master architectural patterns!
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    ██╗  ██╗    ███╗   ███╗ █████╗ ██╗  ██╗███████╗███████╗██╗  ║
+║    ██║ ██╔╝    ████╗ ████║██╔══██╗██║  ██║██╔════╝██╔════╝██║  ║
+║    █████╔╝     ██╔████╔██║███████║███████║█████╗  ███████╗██║  ║
+║    ██╔═██╗     ██║╚██╔╝██║██╔══██║██╔══██║██╔══╝  ╚════██║██║  ║
+║    ██║  ██╗    ██║ ╚═╝ ██║██║  ██║██║  ██║███████╗███████║███████╗║
+║    ╚═╝  ╚═╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝║
+║                                                                  ║
+║              R  A  G  H  A  V  A                                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=Full+Stack+Developer+%7C+AI+Enthusiast;Building+tomorrow%27s+web%2C+today." alt="Typing SVG" />
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/─%20MAIL%20─-maheshraghavak%40gmail.com-00D9FF?style=flat-square&labelColor=0d1117&color=00D9FF&logo=gmail&logoColor=00D9FF)](mailto:maheshraghavak@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/─%20LINKEDIN%20─-mahesh--raghava-0096d6?style=flat-square&labelColor=0d1117&color=0096d6&logo=linkedin&logoColor=0096d6)](https://in.linkedin.com/in/mahesh-raghava-361a51305)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/─%20GITHUB%20─-MaheshRaghava-e6edf3?style=flat-square&labelColor=0d1117&color=e6edf3&logo=github&logoColor=e6edf3)](https://github.com/MaheshRaghava)
+
+</div>
+
+<br/>
+
+---
+
+## `>_ whoami`
+
+```yaml
+# ┌─────────────────────────────────────────────────────────┐
+# │                    SYSTEM PROFILE                       │
+# └─────────────────────────────────────────────────────────┘
+
+name        : K Mahesh Raghava
+role        : Full Stack Developer | AI Enthusiast
+status      : "Currently building AI-powered web platforms with Firebase & Cloud"
+learning    : "Advanced ML/AI · Scalable architecture patterns · LLM integration"
+
+query_me_about :
+  - Node.js
+  - JavaScript
+  - Firebase
+  - MongoDB
+  - Google Gemini APIs
+
+core_expertise :
+  languages : [ C, Java, Python ]
+  domain    : Full-Stack Web Development
+
+passion     : "Turning ideas into innovative, scalable solutions"
+fun_fact    : "I build clones of popular apps to master architectural patterns!"
 ```
 
 ---
 
-## 🚀 Tech Arsenal
+## `>_ ls ./tech-stack`
 
-### Languages & Fundamentals
 <div align="center">
-  <a href="https://devdocs.io/c/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c&theme=light" height="50" />
-  </a>
-  <a href="https://devdocs.io/java/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" height="50" />
-  </a>
-  <a href="https://www.python.org/doc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python&theme=light" height="50" />
-  </a>
-</div>
 
-### Web Technologies
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html&theme=light" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css&theme=light" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js&theme=light" height="50" />
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=light" height="50" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express&theme=light" height="50" />
-  </a>
-</div>
+### `[ LANGUAGES ]`
 
-### Databases & Backend Services
-<div align="center">
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=light" height="50" />
-  </a>
-  <a href="https://firebase.google.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="50" />
-  </a>
-  <a href="https://cloud.google.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gcp&theme=light" height="50" />
-  </a>
-</div>
+<a href="https://devdocs.io/c/"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" title="C"/></a>&nbsp;&nbsp;
+<a href="https://devdocs.io/java/"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" title="Java"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org/doc/"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="48" title="Python"/></a>
 
-### Tools & Platforms
-<div align="center">
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git&theme=light" height="50" />
-  </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=light" height="50" />
-  </a>
-  <a href="https://docs.npmjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=npm&theme=light" height="50" />
-  </a>
-  <a href="https://www.postman.com/api-documentation-tool/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman&theme=light" height="50" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/manual/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash&theme=light" height="50" />
-  </a>
+### `[ WEB STACK ]`
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="48" title="HTML5"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="48" title="CSS3"/></a>&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="48" title="JavaScript"/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/en/docs/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="48" title="Node.js"/></a>&nbsp;&nbsp;
+<a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=dark" height="48" title="Express.js"/></a>
+
+### `[ DATA & CLOUD ]`
+
+<a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="48" title="MongoDB"/></a>&nbsp;&nbsp;
+<a href="https://firebase.google.com/docs"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="48" title="Firebase"/></a>&nbsp;&nbsp;
+<a href="https://cloud.google.com/docs"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" height="48" title="GCP"/></a>
+
+### `[ TOOLS ]`
+
+<a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" title="Git"/></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/docs"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="48" title="VS Code"/></a>&nbsp;&nbsp;
+<a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm&theme=dark" height="48" title="npm"/></a>&nbsp;&nbsp;
+<a href="https://www.postman.com/api-documentation-tool/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" height="48" title="Postman"/></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/manual/"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="48" title="Bash"/></a>
+
 </div>
 
 ---
 
-## 🌟 Featured Projects
+## `>_ cat ./projects.json`
 
-<table align="center" cellspacing="20">
-  <tr>
-    <td align="center" width="45%">
-      <div style="border: 2px solid #0EA5E9; border-radius: 15px; padding: 20px;">
-        <a href="https://github.com/MaheshRaghava/CodeSenseiAI" target="_blank">
-          <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="70px"/><br>
-          <h3 style="color:#0EA5E9; margin: 10px 0;">🤖 CodeSenseiAI</h3>
-        </a>
-        <p><strong>AI-Powered Code Review Bot</strong></p>
-        <p>GitHub App that analyzes PRs for security vulnerabilities, bugs, and code quality issues using Google Gemini 2.5 Flash</p>
-        <p>
-          <a href="https://codesenseiai-gold.vercel.app/" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-          </a>
-          <a href="https://ai.google.dev/gemini-api/docs" target="_blank">
-            <img src="https://img.shields.io/badge/Google%20Gemini-FFA500?style=flat-square&logo=google&logoColor=white" alt="Google Gemini"/>
-          </a>
-          <a href="https://docs.github.com/en/rest" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub API"/>
-          </a>
-          <a href="https://expressjs.com/" target="_blank">
-            <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-          </a>
-          <a href="https://nodejs.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-          </a>
-        </p>
-      </div>
-    </td>
-    <td align="center" width="45%">
-      <div style="border: 2px solid #8B5CF6; border-radius: 15px; padding: 20px;">
-        <a href="https://github.com/MaheshRaghava/CodeRoom" target="_blank">
-          <img src="https://img.icons8.com/color/96/source-code.png" width="70px"/><br>
-          <h3 style="color:#8B5CF6; margin: 10px 0;">💻 CodeRoom</h3>
-        </a>
-        <p><strong>Real-Time Collaborative Editor</strong></p>
-        <p>Multi-user code editor with Monaco, live cursors, integrated chat, and sandboxed code execution environment</p>
-        <p>
-          <a href="https://coderoom-client.onrender.com" target="_blank">
-            <img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=flat-square&logo=render&logoColor=white" alt="Live Demo"/>
-          </a>
-        </p>
-        <p>
-          <a href="https://nodejs.org/" target="_blank">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-          </a>
-          <a href="https://socket.io/" target="_blank">
-            <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io"/>
-          </a>
-          <a href="https://react.dev/" target="_blank">
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-          </a>
-          <a href="https://www.mongodb.com/" target="_blank">
-            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-          </a>
-        </p>
-      </div>
-    </td>
-   </tr>
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [CodeSenseiAI](https://github.com/MaheshRaghava/CodeSenseiAI)
+
+```
+┌─ PROJECT BRIEF ──────────────────────┐
+│ TYPE   ›  GitHub App / AI Bot        │
+│ STATUS ›  ● Live                     │
+└──────────────────────────────────────┘
+```
+
+**AI-Powered Code Review Bot** — Analyzes PRs for security vulnerabilities, bugs, and code quality issues using **Google Gemini 2.5 Flash**.
+
+[![Live Demo](https://img.shields.io/badge/▶%20LIVE%20DEMO-codesenseiai--gold.vercel.app-00D9FF?style=flat-square&labelColor=0d1117)](https://codesenseiai-gold.vercel.app/)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%202.5-4285F4?style=flat-square&logo=google&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub%20API-181717?style=flat-square&logo=github&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 [CodeRoom](https://github.com/MaheshRaghava/CodeRoom)
+
+```
+┌─ PROJECT BRIEF ──────────────────────┐
+│ TYPE   ›  Real-Time Web App          │
+│ STATUS ›  ● Live                     │
+└──────────────────────────────────────┘
+```
+
+**Real-Time Collaborative Editor** — Multi-user code editor with Monaco, live cursors, integrated chat, and sandboxed code execution environment.
+
+[![Live Demo](https://img.shields.io/badge/▶%20LIVE%20DEMO-coderoom--client.onrender.com-8B5CF6?style=flat-square&labelColor=0d1117)](https://coderoom-client.onrender.com)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
 </table>
----
-
-## 🎓 Skills & Expertise
-
-### Backend & API Development
-- ⚙️ RESTful API Design & GraphQL
-- 🔐 Authentication & Authorization (JWT, OAuth)
-- 📊 Database Design & Optimization
-- 🚀 Scalable Architecture Patterns
-
-### AI & Machine Learning
-- 🤖 LLM Integration & Prompt Engineering
-- 🧠 Google Gemini API
-- 📈 Data Processing & Analysis
-- 🎯 ML Model Integration
-
-### Frontend Technologies
-- ⚛️ React.js & Modern JavaScript
-- 🎨 Responsive UI/UX Design
-- 🔄 State Management
-- 🚀 Performance Optimization
-
-### DevOps & Deployment
-- 🐳 Docker & Containerization
-- ☁️ Cloud Deployment (Firebase, GCP)
-- 📦 CI/CD Pipelines
-- 🔧 Server Configuration
 
 ---
 
-## 🌐 What I'm Building
+## `>_ cat ./expertise.md`
 
-- **🔥 Firebase + AI Integration** - Scalable backends with intelligent features
-- **🤖 AI-Driven Tools** - Automating development workflows with LLMs
-- **💬 Real-Time Applications** - WebSocket-based collaborative platforms
-- **📱 Full-Stack Solutions** - End-to-end user experiences
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**`// Backend & API`**
+```
+✔  RESTful API Design & GraphQL
+✔  Authentication & Authorization
+    └─ JWT, OAuth
+✔  Database Design & Optimization
+✔  Scalable Architecture Patterns
+```
+
+**`// AI & Machine Learning`**
+```
+✔  LLM Integration & Prompt Engineering
+✔  Google Gemini API
+✔  Data Processing & Analysis
+✔  ML Model Integration
+```
+
+</td>
+<td width="50%" valign="top">
+
+**`// Frontend Technologies`**
+```
+✔  React.js & Modern JavaScript
+✔  Responsive UI/UX Design
+✔  State Management
+✔  Performance Optimization
+```
+
+**`// DevOps & Deployment`**
+```
+✔  Docker & Containerization
+✔  Cloud Deployment
+    └─ Firebase, GCP
+✔  CI/CD Pipelines
+✔  Server Configuration
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎨 Quote of the Moment
+## `>_ tail -f ./current-builds.log`
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+```
+[ACTIVE]  🔥  Firebase + AI Integration
+          └─ Scalable backends with intelligent features
+
+[ACTIVE]  🤖  AI-Driven Tools
+          └─ Automating development workflows with LLMs
+
+[ACTIVE]  💬  Real-Time Applications
+          └─ WebSocket-based collaborative platforms
+
+[ACTIVE]  📱  Full-Stack Solutions
+          └─ End-to-end user experiences
+```
 
 ---
 
-## 🤝 Let's Collaborate!
-
-I'm always excited to:
-- 🤝 Collaborate on innovative projects
-- 💬 Discuss AI/ML applications in web development
-- 🎓 Share knowledge and learn together
-- 🚀 Build something amazing
+## `>_ fortune`
 
 <div align="center">
-  
-  ### Get in Touch
-  
-  **📧 Email:** [maheshraghavak@gmail.com](mailto:maheshraghavak@gmail.com)  
-  **💼 LinkedIn:** [@mahesh-raghava](https://in.linkedin.com/in/mahesh-raghava-361a51305)  
-  **🐙 GitHub:** [@MaheshRaghava](https://github.com/MaheshRaghava)
-  
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:06b6d4&height=120&section=footer&animation=fadeIn"/>
-</p>
+## `>_ ping mahesh --connect`
 
-<p align="right">
-  <a href="#"><img src="https://img.shields.io/badge/↑-Back_to_Top-0EA5E9?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+```
+CONNECT OPTIONS
+───────────────────────────────────────────────────
+  🤝  Collaborate on innovative projects
+  💬  Discuss AI/ML applications in web development
+  🎓  Share knowledge and learn together
+  🚀  Build something amazing
+───────────────────────────────────────────────────
+```
+
+<div align="center">
+
+| Channel | Address |
+|---------|---------|
+| 📧 **Email** | [maheshraghavak@gmail.com](mailto:maheshraghavak@gmail.com) |
+| 💼 **LinkedIn** | [@mahesh-raghava](https://in.linkedin.com/in/mahesh-raghava-361a51305) |
+| 🐙 **GitHub** | [@MaheshRaghava](https://github.com/MaheshRaghava) |
+
+</div>
 
 ---
 
 <div align="center">
-  
-  **⭐ If you find my projects interesting, a star would be appreciated! ⭐**
-  
-  _Last Updated: 2026_
-  
+
+```
+╔════════════════════════════════════════════════╗
+║  ⭐  If my projects sparked something,         ║
+║      a star would mean the world  ⭐           ║
+╚════════════════════════════════════════════════╝
+```
+
+![visitor badge](https://img.shields.io/badge/Last%20Updated-2026-00D9FF?style=flat-square&labelColor=0d1117)
+
+<sub>Crafted with precision · Powered by curiosity · Deployed with passion</sub>
+
 </div>
