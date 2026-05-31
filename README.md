@@ -38,35 +38,33 @@
 
 ## 💼 About Me
 
-```
-╔════════════════════════════════════════════════════╗
-║                                                    ║
-║  🔭 Currently building:                           ║
-║     AI-powered web platforms with Firebase & Cloud ║
-║                                                    ║
-║  🌱 Learning:                                     ║
-║     Advanced ML/AI, scalable architecture          ║
-║     patterns, LLM integration                      ║
-║                                                    ║
-║  💬 Ask me about:                                 ║
-║     Node.js, JavaScript, Firebase, MongoDB,        ║
-║     Google Gemini APIs                             ║
-║                                                    ║
-║  🧠 Expertise:                                    ║
-║     C, Java, Python, Full-Stack Web Development    ║
-║                                                    ║
-║  ⚡ Passion:                                      ║
-║     Turning ideas into innovative, scalable        ║
-║     solutions                                      ║
-║                                                    ║
-║  🎮 Fun fact:                                     ║
-║     I build clones of popular apps to master       ║
-║     architectural patterns!                        ║
-║                                                    ║
-╚════════════════════════════════════════════════════╝
-```
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔭 What I'm Doing</h3>
+        <div align="center">
+          <p>🚀 <b>Currently building:</b> AI-powered web platforms with Firebase & Cloud</p>
+          <p>🌱 <b>Learning:</b> Advanced ML/AI, scalable architecture patterns, LLM integration</p>
+          <p>⚡ <b>Passion:</b> Turning ideas into innovative, scalable solutions</p>
+          <p>🎮 <b>Fun fact:</b> I build clones of popular apps to master architectural patterns!</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">💡 My Expertise</h3>
+        <div align="center">
+          <p>🧠 <b>Languages:</b> C, Java, Python, JavaScript</p>
+          <p>💬 <b>Ask me about:</b> Node.js, Firebase, MongoDB, Google Gemini APIs</p>
+          <p>🎯 <b>Focus:</b> Full-Stack Web Development & AI Integration</p>
+          <p>🤝 <b>Open to:</b> Collaborative projects & innovative ideas</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=MaheshRaghava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=8B5CF6&text_color=FFFFFF&ring_color=0EA5E9"/>
 </div>
 
