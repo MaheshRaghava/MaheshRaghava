@@ -10,7 +10,7 @@
 
 <!-- ===== INTRODUCTION TYPING EFFECT ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Welcome+to+My+Digital+Universe;Building+Tomorrow's+Solutions+Today;AI+%7C+Full+Stack+%7C+Innovation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Welcome+to+My+Digital+Universe;Building+Tomorrow's+Solutions+Today;AI+%7C+Full+Stack+%7C+Innovation;Multi-Agent+Systems+%7C+LangGraph"/>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@
       <td width="50%">
         <h3 align="center">🔭 What I'm Doing</h3>
         <div align="center">
-          <p>🚀 <b>Currently building:</b> AI-powered web platforms with Firebase & Cloud</p>
+          <p>🚀 <b>Currently building:</b> Multi-agent AI orchestration frameworks & AI-powered web platforms</p>
           <p>🌱 <b>Learning:</b> Advanced ML/AI, scalable architecture patterns, LLM integration</p>
           <p>⚡ <b>Passion:</b> Turning ideas into innovative, scalable solutions</p>
           <p>🎮 <b>Fun fact:</b> I build clones of popular apps to master architectural patterns!</p>
@@ -53,9 +53,9 @@
       <td width="50%">
         <h3 align="center">💡 My Expertise</h3>
         <div align="center">
-          <p>🧠 <b>Languages:</b> C, Java, Python, JavaScript</p>
-          <p>💬 <b>Ask me about:</b> Node.js, Firebase, MongoDB, Google Gemini APIs</p>
-          <p>🎯 <b>Focus:</b> Full-Stack Web Development & AI Integration</p>
+          <p>🧠 <b>Languages:</b> C, Java, Python, JavaScript, TypeScript</p>
+          <p>💬 <b>Ask me about:</b> LangGraph, FastAPI, Redis, Node.js, Firebase, MongoDB, Google Gemini APIs</p>
+          <p>🎯 <b>Focus:</b> Full-Stack Web Development, AI Integration & Multi-Agent Systems</p>
           <p>🤝 <b>Open to:</b> Collaborative projects & innovative ideas</p>
         </div>
       </td>
@@ -91,6 +91,9 @@
   <a href="https://www.python.org/doc/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60" />
   </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="60" />
+  </a>
   
   <br/>
   
@@ -105,6 +108,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js&theme=dark" height="60" />
   </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="60" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vite&theme=dark" height="60" />
+  </a>
   <a href="https://nodejs.org/en/docs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="60" />
   </a>
@@ -114,10 +123,25 @@
   
   <br/>
   
+  ### 🤖 AI & Agent Orchestration
+  
+  <p>
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white" alt="LangGraph"/>
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain"/>
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket"/>
+  </p>
+  
+  <br/>
+  
   ### 💾 Databases & Backend Services
   
   <a href="https://www.mongodb.com/docs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="60" />
+  </a>
+  <a href="https://redis.io/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis&theme=dark" height="60" />
   </a>
   <a href="https://firebase.google.com/docs" target="_blank">
     <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="60" />
@@ -132,6 +156,9 @@
   
   <a href="https://git-scm.com/doc" target="_blank">
     <img src="https://skillicons.dev/icons?i=git&theme=dark" height="60" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" height="60" />
   </a>
   <a href="https://code.visualstudio.com/docs" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60" />
@@ -162,7 +189,34 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="33%">
+        <div align="center">
+          <br/>
+          <img src="https://img.icons8.com/color/96/robot-2.png" width="80px"/>
+          <br/><br/>
+          <h3>⚡ AgentOS</h3>
+          <p><strong>Multi-Agent AI Orchestration Framework</strong></p>
+          <p>Production-grade framework where a Planner agent classifies goal complexity and routes work across a LangGraph StateGraph of specialized workers — Researcher, Coder, Summarizer, Browser — executing in parallel with a 5-model Gemini fallback chain and live DAG streaming over WebSocket</p>
+          <p>
+            <a href="https://agentos-frontend-rr15.onrender.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="Live Demo"/>
+            </a>
+            <a href="https://github.com/MaheshRaghava/AgentOS" target="_blank">
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Source Code"/>
+            </a>
+          </p>
+          <p>
+            <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" alt="LangGraph"/>
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+            <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+            <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+          </p>
+          <br/>
+        </div>
+      </td>
+      <td width="33%">
         <div align="center">
           <br/>
           <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="80px"/>
@@ -188,7 +242,7 @@
           <br/>
         </div>
       </td>
-      <td width="50%">
+      <td width="33%">
         <div align="center">
           <br/>
           <img src="https://img.icons8.com/color/96/source-code.png" width="80px"/>
@@ -238,13 +292,17 @@
         <p>🔹 Authentication & Authorization</p>
         <p>🔹 JWT, OAuth</p>
         <p>🔹 Database Design & Optimization</p>
+        <p>🔹 Redis Pub/Sub & Caching</p>
+        <p>🔹 WebSocket Real-Time Streaming</p>
         <p>🔹 Scalable Architecture Patterns</p>
       </td>
       <td width="25%" align="center">
         <h3>🤖 AI & Machine Learning</h3>
         <hr/>
+        <p>🔹 Multi-Agent Orchestration (LangGraph)</p>
         <p>🔹 LLM Integration & Prompt Engineering</p>
         <p>🔹 Google Gemini API</p>
+        <p>🔹 Model Fallback & Resilience Design</p>
         <p>🔹 Data Processing & Analysis</p>
         <p>🔹 ML Model Integration</p>
       </td>
@@ -252,15 +310,17 @@
         <h3>⚛️ Frontend Technologies</h3>
         <hr/>
         <p>🔹 React.js & Modern JavaScript</p>
+        <p>🔹 TypeScript</p>
         <p>🔹 Responsive UI/UX Design</p>
-        <p>🔹 State Management</p>
+        <p>🔹 State Management (Zustand)</p>
+        <p>🔹 Live Data Visualization (React Flow)</p>
         <p>🔹 Performance Optimization</p>
       </td>
       <td width="25%" align="center">
         <h3>🚀 DevOps & Deployment</h3>
         <hr/>
         <p>🔹 Docker & Containerization</p>
-        <p>🔹 Cloud Deployment</p>
+        <p>🔹 Cloud Deployment (Render, GCP)</p>
         <p>🔹 Firebase, GCP</p>
         <p>🔹 CI/CD Pipelines</p>
         <p>🔹 Server Configuration</p>
@@ -285,7 +345,7 @@
   ```mermaid
   graph LR
       A[🔥 Firebase + AI] -->|Scalable Backends| E[🚀 Production Ready]
-      B[🤖 AI-Driven Tools] -->|LLM Integration| E
+      B[🤖 Multi-Agent AI] -->|LangGraph Orchestration| E
       C[💬 Real-Time Apps] -->|WebSocket Based| E
       D[📱 Full-Stack Solutions] -->|End-to-End| E
   ```
